@@ -112,7 +112,7 @@ npm start
 
 ## 👩‍💻 Author
 
-Developed by **\Pallawi Hansdak** ✨
+Developed by **Pallawi Hansdak** ✨
 
 ---
 
